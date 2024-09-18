@@ -1,0 +1,5 @@
+env/
+kaggle.json
+datasets/
+runs/
+yolov8n.pt
